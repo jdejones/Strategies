@@ -20,7 +20,7 @@ Intraday timeframe refers to a 3-minute timeframe. A default is needed for assig
 ### 2 day lookback
 #### Daily timeframe
 - On first day, news with revenue impact preferred. May be forward looking. Some breaking news required
-- On first day,Gap minimum 5%
+- On first day, Gap minimum 5%
 - On first day, RVol > 2
 - ATRs Traded > 1.5, 2 preferred
 #### Intraday timeframe
@@ -32,7 +32,7 @@ Intraday timeframe refers to a 3-minute timeframe. A default is needed for assig
 ### 3 day lookback
 #### Daily timeframe
 - On first day, news with revenue impact preferred. May be forward looking. Some breaking news required
-- On first day,Gap minimum 5%
+- On first day, Gap minimum 5%
 - On first day, RVol > 2
 - ATRs Traded > 1.5, 2 preferred
 #### Intraday timeframe
@@ -44,7 +44,7 @@ Intraday timeframe refers to a 3-minute timeframe. A default is needed for assig
 ### 5 day lookback
 #### Daily timeframe
 - On first day, news with revenue impact preferred. May be forward looking. Some breaking news required
-- On first day,Gap minimum 5%
+- On first day, Gap minimum 5%
 - On first day, RVol > 2
 - ATRs Traded > 1.5, 2 preferred
 #### Intraday timeframe
