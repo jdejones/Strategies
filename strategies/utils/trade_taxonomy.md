@@ -9,7 +9,7 @@ Intraday timeframe refers to a 3-minute timeframe. A default is needed for assig
 - RVol > 2 (in real-time will be measured on intraday timeframe)
 - ATRs Traded > 1.5, 2 preferred
 #### Intraday timeframe
-- Pre-market ange breakout
+- Pre-market range breakout
 - Opening range breakout
 - Gap up double bottom w/ 9EMA support
 - Mid-day perk
